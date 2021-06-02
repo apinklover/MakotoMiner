@@ -1,4 +1,4 @@
-# MineMakotoCoin
+# MakotoMiner
 CPU miner for MakotoCoin.
 
 # Required libraries
